@@ -10,3 +10,5 @@ Statisches Skript um einzelne Kundenbewertungen in die Datenbank zu importieren.
 6. Anzahl der Sterne anpassen.
 
 Um die Bewertung zu importieren kann nun einfach das Skript aufgerufen werden.
+
+Um die Bewertungen auf der Produktdetailseite zu sehen müssen diese im Backend freigegeben werden.
